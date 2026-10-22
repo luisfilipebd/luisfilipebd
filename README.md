@@ -36,5 +36,5 @@ Tenho forte especialização em bancos de dados relacionais e venho integrando e
 
 ### 📫 Contato & Redes
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/luisfilipe)
-[![E-mail](https://img.shields.io/badge/Email-Contato-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luisfilipeb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/luisfilipebd)
+[![E-mail](https://img.shields.io/badge/Email-Contato-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luisfilipebd@gmail.com)
